@@ -24,7 +24,7 @@ class ExampleSlideCountdown extends StatelessWidget {
                   borderRadius: BorderRadius.all(Radius.circular(20.0)),
                   color: Colors.black
               ),
-              duration: Duration(hours: 0, minutes: 00, seconds: 10),
+              duration: Duration(days: 2, hours: 2, minutes: 30),
               padding: EdgeInsets.symmetric(horizontal: 10, vertical: 5),
               slideDirection: SlideDirection.up,
               icon: const Padding(
